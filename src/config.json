@@ -1,6 +1,6 @@
 {
   "mistral": {
-    "api_key": "0j5DaJPgPkC9W2sEKDNdEaCmCtn4UXFE",
+    "api_key": "0j5DaJPgPkC9W2sEKDNdEaCmCtn4UX",
     "api_url": "https://api.mistral.ai/v1/chat/completions"
   }
 }
