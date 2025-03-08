@@ -25,6 +25,9 @@ Siddha Translator App is a simple and interactive language translation web app b
 The app is deployed on Streamlit Cloud. You can access it here.
 
 ## Screenshot
+ ![Spanish](ss/ss1.png)
+
+ ![French](ss/ss2.png)
 
 ## Contributing
 
