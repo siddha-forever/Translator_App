@@ -6,7 +6,7 @@ Siddha Translator App is a simple and interactive language translation web app b
 	•	Translate text between various languages
 	•	User-friendly UI with a dark theme
 	•	Supports multiple input and output languages
-	•	Powered by Google Translate API
+	•	Powered by Mistral AI API
 
 ## Technologies Used
 	•	Python
