@@ -2,7 +2,6 @@ import os
 import json
 import requests
 
-# Get the absolute path to the config file
 working_dir = os.path.dirname(os.path.abspath(__file__))
 config_path = os.path.join(working_dir, "config.json")
 
@@ -18,7 +17,7 @@ except Exception as e:
 
 
 def translate(input_language, output_language, input_text):
-    # Language mapping (same as before)
+    # Language mapping
     lang_code = {
         'English': 'en',
         'French': 'fr',
