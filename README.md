@@ -11,7 +11,7 @@ Siddha Translator App is a simple and interactive language translation web app b
 ## Technologies Used
 	•	Python
 	•	Streamlit
-	•	Google Translate API
+	•	Mistral AI API
 
 
 
